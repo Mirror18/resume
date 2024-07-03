@@ -10,6 +10,8 @@
 | Github   | https://github.com/Mirror18            |
 | 在线简历 | https://mirror18.github.io/resume/     |
 
+
+
 ## 联系方式
 
 | 手机   | 16650010560            |
@@ -22,6 +24,8 @@
 ## 教育
 
 2019 - 2023 	洛阳理工学院	本科
+
+
 
 ## 技能清单
 
