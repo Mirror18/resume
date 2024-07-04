@@ -84,7 +84,7 @@
 
 ### 重构spring框架和Tomcat框架
 
-**项目地址**：[Spring](https://github.com/Mirror18/resume/tree/master/project/summer-framework)、[Tomcat]{https://github.com/Mirror18/resume/tree/master/project/jerrymouse}
+**项目地址**：[Spring](https://github.com/Mirror18/resume/tree/master/project/summer-framework)、[Tomcat](https://github.com/Mirror18/resume/tree/master/project/jerrymouse)
 
 * **项目特色**：参考源码和博客，实现简易Spring和Tomcat框架
 
