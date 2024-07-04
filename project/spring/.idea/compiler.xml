@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="summer-jdbc" />
+        <module name="summer-aop" />
+        <module name="summer-boot" />
+        <module name="summer-web" />
+        <module name="summer-context" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bean-post-processor" target="21" />
+      <module name="create-bean-definitions" target="21" />
+      <module name="create-bean-instances" target="21" />
+      <module name="hello-boot" target="21" />
+      <module name="hello-webapp" target="21" />
+      <module name="init-beans" target="21" />
+      <module name="jdbc-template" target="21" />
+      <module name="property-resolver" target="21" />
+      <module name="proxy-resolver" target="21" />
+      <module name="resource-resolver" target="21" />
+      <module name="summer-aop" target="21" />
+      <module name="summer-boot" target="21" />
+      <module name="summer-build" target="1.5" />
+      <module name="summer-context" target="21" />
+      <module name="summer-jdbc" target="21" />
+      <module name="summer-parent" target="21" />
+      <module name="summer-web" target="21" />
+      <module name="web-app-context" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

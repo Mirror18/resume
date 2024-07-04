@@ -1,8 +1,6 @@
-# HOWTO
+使用`bot.py` 启动项目
 
-Use `bot.py` to do automatical trading.
-
-command:
+命令：
 
 ```
 bot.py --email=user0@example.com --password=password0

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trading-engine" />
+        <module name="trading-api" />
+        <module name="ui" />
+        <module name="trading-sequencer" />
+        <module name="common" />
+        <module name="config" />
+        <module name="quotation" />
+        <module name="push" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="build" target="1.5" />
+      <module name="common" target="17" />
+      <module name="config" target="17" />
+      <module name="parent" target="17" />
+      <module name="push" target="17" />
+      <module name="quotation" target="17" />
+      <module name="trading-api" target="17" />
+      <module name="trading-engine" target="17" />
+      <module name="trading-sequencer" target="17" />
+      <module name="ui" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="push" options="-parameters" />
+      <module name="quotation" options="-parameters" />
+      <module name="trading-api" options="-parameters" />
+      <module name="trading-engine" options="-parameters" />
+      <module name="trading-sequencer" options="-parameters" />
+      <module name="ui" options="-parameters" />
+    </option>
+  </component>
+</project>

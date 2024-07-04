@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/build/build.iml" filepath="$PROJECT_DIR$/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push/push.iml" filepath="$PROJECT_DIR$/push/push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quotation/quotation.iml" filepath="$PROJECT_DIR$/quotation/quotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trading-api/trading-api.iml" filepath="$PROJECT_DIR$/trading-api/trading-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trading-engine/trading-engine.iml" filepath="$PROJECT_DIR$/trading-engine/trading-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trading-sequencer/trading-sequencer.iml" filepath="$PROJECT_DIR$/trading-sequencer/trading-sequencer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
+    </modules>
+  </component>
+</project>

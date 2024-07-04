@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/step-by-step/hello-boot" />
+    <file type="web" url="file://$PROJECT_DIR$/step-by-step/hello-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/step-by-step/web-app-context" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/framework/summer-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-web/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-build/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/framework/summer-context/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/hello-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/init-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/hello-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/jdbc-template/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/proxy-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/web-app-context/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/property-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/resource-resolver/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/bean-post-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/create-bean-instances/pom.xml" />
+        <option value="$PROJECT_DIR$/step-by-step/create-bean-definitions/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK" />
+</project>

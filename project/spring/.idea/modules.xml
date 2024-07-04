@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-aop/summer-aop.iml" filepath="$PROJECT_DIR$/framework/summer-aop/summer-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-boot/summer-boot.iml" filepath="$PROJECT_DIR$/framework/summer-boot/summer-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-build/summer-build.iml" filepath="$PROJECT_DIR$/framework/summer-build/summer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-context/summer-context.iml" filepath="$PROJECT_DIR$/framework/summer-context/summer-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-jdbc/summer-jdbc.iml" filepath="$PROJECT_DIR$/framework/summer-jdbc/summer-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-parent/summer-parent.iml" filepath="$PROJECT_DIR$/framework/summer-parent/summer-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/summer-web/summer-web.iml" filepath="$PROJECT_DIR$/framework/summer-web/summer-web.iml" />
+    </modules>
+  </component>
+</project>
