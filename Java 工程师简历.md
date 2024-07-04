@@ -25,9 +25,9 @@
 
  		
 
-| 时间        | 学校         | 专业               |
-| ----------- | ------------ | ------------------ |
-| 2019 - 2023 | 洛阳理工学院 | 本科(土木工程专业) |
+| 时间        | 学校         | 专业           |
+| ----------- | ------------ | -------------- |
+| 2019 - 2023 | 洛阳理工学院 | 土木工程(本科) |
 
 
 
@@ -82,12 +82,9 @@
   - 实现用户管理、评论、第三方登录、文章、通知、标签、点赞等功能。
   - 使用 Git 提交代码并部署到云端。
 
-### 重构spring框架和Tomcat框架
+### 手写简易spring框架和Tomcat框架
 
 **项目地址**：[Spring](https://github.com/Mirror18/resume/tree/master/project/summer-framework)、[Tomcat](https://github.com/Mirror18/resume/tree/master/project/jerrymouse)
 
 * **项目特色**：参考源码和博客，实现简易Spring和Tomcat框架
 
-## 致谢
-
-感谢您花时间阅读我的简历,期待能有机会和您共事。
