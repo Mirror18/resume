@@ -54,12 +54,7 @@
   - 参与JWT和Swagger的编写。
   - 参与POI的编写，实现对数据的可视化。
   - 使用Radis和Spring Cache对数据访问的优化。
-- **个人收获**：
-  - 从这个项目中完整的了解到如何开发一个Java 应用。
-  - 对掌握的已有知识做一个详细的整合。
-
-
-### 基于 SpringCloud 开发的简易证券交易系统（网上项目）
+  - 基于 SpringCloud 开发的简易证券交易系统（网上项目）
 
 - **项目描述：** 从零开始搭建一个7 x 24小时运行的证券交易所，提供Web操作页面。分为多个模块，通过spring Cloud Config组件，建立一个build模块将各个模块整合连接。各个模块基于spring Boot 开发。
 - **技术栈：** Spring Cloud、Docker、MySQL、Redis、Kafka、Vert.x
@@ -70,9 +65,6 @@
   - 编写标准的Web应用用于接受所有的订单请求。
   - 行情系统生成的公开市场的历史数据。
   - 通过使用Netty的Vert.x将系统消息推送给客户端。Vue框架完成客户端网页。
-- **个人收获**：
-  - 巩固了我对spring Cloud的知识的掌握。
-  - 进一步的提升了我对Java 开发应用的了解认知程度。
 
 
 ### 使用 Django 框架开发博客

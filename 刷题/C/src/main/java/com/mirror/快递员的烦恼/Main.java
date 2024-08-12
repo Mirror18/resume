@@ -110,7 +110,9 @@ public class Main {
         }
 
         for (int i = 1; i <= n; i++) {
-            if (used[i]) continue;
+            if (used[i]) {
+                continue;
+            }
 
             used[i] = true;
             dfs(i, sum + dist[pre][i], used, level + 1);
